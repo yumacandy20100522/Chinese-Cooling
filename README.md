@@ -1,2 +1,2 @@
-# Cooling
-腊八粥
+# Chinese Cooling
+新年私房菜
